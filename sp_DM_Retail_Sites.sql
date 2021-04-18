@@ -2,9 +2,9 @@
 
 Object:			Stored procedure 
 Author:			Nebiyu Sahlu
-Script Date:	June, 2020
-Description:	This procedure creates a Data Mart in star schema model and loads data from the source staging database
-				into the 'Fact' table and uses SCD type 2 to load data into the dimension tables.  
+Script Date:		June, 2020
+Description:		This procedure creates a Data Mart in star schema model and loads data from the source staging database
+			into the 'Fact' table and uses SCD type 2 to load data into the dimension tables.  
 			
 */
 
